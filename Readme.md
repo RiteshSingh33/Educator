@@ -1,6 +1,6 @@
 # Educator - Interactive Learning Platform
 
-![Educator Logo](https://github.com/RiteshSingh33/Educator/raw/master/src/assets/educator_logo.svg)
+![Educator Logo](https://github.com/RiteshSingh33/Educator/blob/main/client/src/assets/educator_logo.png)
 
 ## Overview
 
