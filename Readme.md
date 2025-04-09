@@ -57,16 +57,17 @@ Educator is a comprehensive e-learning platform designed to connect educators an
 
 ## Project Structure
 
+Folder Overview
 ```
-src/
-├── assets/         # Static assets like images and icons
-├── components/     # Reusable UI components
-├── hooks/          # Custom React hooks
-├── lib/            # Utility functions and helpers
-├── pages/          # Page components for routing
-├── App.tsx         # Main application component
-├── index.css       # Global styles
-└── main.tsx        # Application entry point
+client/src/ – Components, Pages, Routes, Styles
+
+server/controllers/ – Handles route logic
+
+server/models/ – Mongoose schemas
+
+server/routes/ – API routes
+
+server/middlewares/ – Authentication and error handling
 ```
 
 ## Contributing
@@ -79,13 +80,10 @@ We welcome contributions to improve Educator! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
-Ritesh Singh - [GitHub Profile](https://github.com/RiteshSingh33)
+Ritesh Singh Rawat - [GitHub Profile](https://github.com/RiteshSingh33)
 
 Project Link: [https://github.com/RiteshSingh33/Educator](https://github.com/RiteshSingh33/Educator)
 
